@@ -130,7 +130,11 @@ Global-AI-Job-Market/
 - ✅ Streamlit Dashboard
 - ✅ GitHub Repository
 
+## 🌐 Live Dashboard
 
+Access the interactive Streamlit dashboard here:
+
+**https://global-job-market-project-lokesh.streamlit.app/**
 
 
 
