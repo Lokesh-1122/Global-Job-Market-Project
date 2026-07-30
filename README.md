@@ -2,7 +2,7 @@
 
 An interactive data visualization project that analyzes global AI job market trends using real-world job posting data. This project explores salary distributions, experience levels, skill demand, company characteristics, and geographic hiring trends through insightful visualizations and an interactive Streamlit dashboard.
 
----
+
 
 ## 📖 Project Overview
 
@@ -10,7 +10,6 @@ The rapid growth of Artificial Intelligence has significantly transformed the gl
 
 The analysis is performed using Python for data processing and visualization, while Streamlit is used to build an interactive dashboard that allows users to explore the data dynamically.
 
----
 
 ## 🎯 Project Objectives
 
@@ -21,7 +20,7 @@ The analysis is performed using Python for data processing and visualization, wh
 - Examine industry-wise hiring patterns.
 - Build an interactive dashboard for data exploration.
 
----
+
 
 ## 📂 Dataset
 
@@ -47,7 +46,6 @@ The datasets contain information such as:
 - Years of Experience
 - Education Requirement
 
----
 
 ## 🛠 Technologies Used
 
@@ -61,7 +59,6 @@ The datasets contain information such as:
 | Streamlit | Interactive Dashboard |
 | GitHub | Version Control |
 
----
 
 ## 📊 Visualizations Included
 
@@ -80,7 +77,7 @@ The project contains multiple visualizations, including:
 - Heatmap Analysis
 - Remote vs On-site Job Analysis
 
----
+
 
 ## 📈 Key Insights
 
@@ -91,7 +88,7 @@ The project contains multiple visualizations, including:
 - Remote work has become a significant hiring trend in the AI industry.
 - Mid-level and Senior positions account for a large share of AI job postings.
 
----
+
 
 ## 🚀 Streamlit Dashboard
 
@@ -108,41 +105,20 @@ The interactive dashboard allows users to:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-```
 
----
 
 ## 📁 Project Structure
 
-```
 Global-AI-Job-Market/
 │
 ├── app.py
 ├── requirements.txt
 ├── ai_job_dataset.csv
 ├── ai_job_dataset1.csv
-├── Global_Job_Market.ipynb
-├── Global_Job_Market.html
-├── Global_Job_Market.pdf
-├── Global_Job_Market.pptx
 └── README.md
-```
 
----
 
-## 📷 Dashboard Preview
 
-Add screenshots of your Streamlit dashboard here.
-
-Example:
-
-```
-images/dashboard_home.png
-images/salary_analysis.png
-images/skills_dashboard.png
-```
-
----
 
 ## 📚 Project Deliverables
 
@@ -154,25 +130,9 @@ images/skills_dashboard.png
 - ✅ Streamlit Dashboard
 - ✅ GitHub Repository
 
----
 
-## 👨‍🎓 Course Information
 
-**Course:** Data Visualization
 
-**Project:** Final Project – Winter 2025/2026
-
----
-
-## 👤 Author
-
-**Pranai Teja Sabbe**
-
-Master's Student – Data Science
-
-University of Europe for Applied Sciences
-
----
 
 ## ⭐ Acknowledgements
 
